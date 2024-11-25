@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+REAL TIME CHAT APP FRONT END sign up account add friends from both the accounts and start chatting
 
 ## Getting Started
 
